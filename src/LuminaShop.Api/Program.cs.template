@@ -1,0 +1,3 @@
+// Placeholder for Program.cs
+// This file sets up the ASP.NET Core application, configures services,
+// and builds the HTTP request pipeline.
